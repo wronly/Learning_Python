@@ -91,7 +91,7 @@ inp3.place(relx=0.6, rely=0.6, relwidth=0.3, relheight=0.1)
 inp4 = Entry(root)
 inp4.place(relx=0.6, rely=0.7, relwidth=0.3, relheight=0.1)
 
-btn = Button(root,text="提交",command=run)
+btn = Button(root,text="提交11111111",command=run)
 btn.pack()
 
 lb2 = Label(root,text='')
